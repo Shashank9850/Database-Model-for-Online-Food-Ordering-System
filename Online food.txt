@@ -1,4 +1,4 @@
-create database FOODY;
+create database FOODHUNTZ;
 
 ## Table structure for table `customer`
 
