@@ -2,7 +2,7 @@ create database FOODHUNTZ;
 
 ## Table structure for table `customer`
 
-use FOODY;
+use FOODHUNT ;
 
 CREATE TABLE customer (
   customer_id int(255) NOT NULL,
